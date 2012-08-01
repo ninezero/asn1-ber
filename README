@@ -1,3 +1,17 @@
+-----------------------------------------------------------------------
+NOTE AS OF 2012-08-01: This is forked from mmitton's original to apply
+a year-old pull request and get it working with Go 1.0. 
+
+I have no intention of actively developing this library, but I will
+actually apply pull-requests. 
+
+If you are interested in taking over active development (I'm assuming
+mmitton has abandoned it), let me know and I'll take this down and
+point people your way. 
+
+-Anders
+----------------------------------------------------------------------
+
 ASN1 BER Encoding / Decoding Library for the GO programming language.
 
 Required Librarys: 
